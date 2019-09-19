@@ -1,0 +1,7 @@
+string subject_name
+string segment_name
+int32 n_measurements
+float64 z_offset
+---
+bool success
+geometry_msgs/PoseStamped pose
